@@ -1,6 +1,6 @@
 # grpc-go-1
 
-We modified gRPC-go by doing the following two changes:
+We modified gRPC-go-0bc741730b8171fc51cdaf826caea5119c411009 by doing the two changes:
 
 1. We replace all 'func (s) Test' with 'func Test' by executing the following command. 
 
